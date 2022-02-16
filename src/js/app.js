@@ -60,7 +60,7 @@ window.onload = function() {
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
-    twitter: <i class="fab fa-twitter"></i>,
+    twitter: null,
     github: null,
     linkedin: null,
     instagram: null,
